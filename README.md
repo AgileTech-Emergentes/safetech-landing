@@ -1,5 +1,5 @@
 # Landing-Page
-Landing Page del producto PsychoHelp
+Landing Page del producto SafeTech
 Es la primera versión del Landing Page que esta desarrollado por:
 - 1 archivo html 
 - 1 archivo css
